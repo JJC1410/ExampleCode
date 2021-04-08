@@ -1,3 +1,4 @@
+package Example1;
 
 public class JournalPaper extends WrittenItem
 {
